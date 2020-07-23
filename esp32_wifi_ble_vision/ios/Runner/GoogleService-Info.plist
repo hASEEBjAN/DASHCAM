@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>276207754460-c2edu1bb2osi7q7ekaim1293g2bllr81.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.276207754460-c2edu1bb2osi7q7ekaim1293g2bllr81</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDCGZDLtiMBmkruo6WwZk4kgdc3HWVkNHA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>276207754460</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>mlkit.demo</string>
+	<key>PROJECT_ID</key>
+	<string>computer-vision-db7c5</string>
+	<key>STORAGE_BUCKET</key>
+	<string>computer-vision-db7c5.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:276207754460:ios:1ff628ed3d846b38ef2819</string>
+	<key>DATABASE_URL</key>
+	<string>https://computer-vision-db7c5.firebaseio.com</string>
+</dict>
+</plist>
